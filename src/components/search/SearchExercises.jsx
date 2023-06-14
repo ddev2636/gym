@@ -373,7 +373,6 @@ import {
 import { fetchData } from "../../state/fetch";
 import { useNavigate } from "react-router-dom";
 import { useTheme } from "@emotion/react";
-import { Loader } from "three";
 
 const SearchExercises = () => {
   const [search, setSearch] = useState("");
