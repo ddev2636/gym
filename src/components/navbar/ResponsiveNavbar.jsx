@@ -16,7 +16,7 @@ const Navbar = styled(AppBar)(({ theme }) => ({
   position: "fixed",
   top: 0,
   zIndex: theme.zIndex.appBar,
-  background: "rgb(4, 36, 77)",
+  // background: "rgb(4, 36, 77)",
   background:
     "linear-gradient(90deg, rgba(4,36,77,0.9698004201680672) 0%, rgba(13,13,170,1) 35%, rgba(0,82,255,1) 100%)",
 }));

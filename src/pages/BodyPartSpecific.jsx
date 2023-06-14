@@ -9,7 +9,7 @@ import {
   Pagination,
   Box,
 } from "@mui/material";
-import { styled } from "@mui/system";
+
 import "./Bodypartexercises.css";
 import { useTheme } from "@emotion/react";
 import Loader from "../components/Loader";
@@ -74,7 +74,7 @@ const BodyPartSpecific = () => {
                       display: "flex",
                       justifyContent: "center",
                       color: theme.palette.primary.alternate,
-                      display: "-webkit-box",
+
                       overflow: "hidden",
                       WebkitBoxOrient: "vertical",
                       WebkitLineClamp: 3,
