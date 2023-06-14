@@ -85,7 +85,7 @@ const BodyParts = () => {
                 style={{
                   position: "absolute",
                   zIndex: 2,
-                  left: "30%",
+                  left: "35%",
                   top: "50%",
                   transform: "translateY(-50%)",
                   backgroundColor: theme.palette.primary.main,
@@ -109,7 +109,7 @@ const BodyParts = () => {
                 style={{
                   position: "absolute",
                   zIndex: 2,
-                  right: "30%",
+                  right: "35%",
                   top: "50%",
                   transform: "translateY(-50%)",
                   backgroundColor: theme.palette.primary.main,

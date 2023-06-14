@@ -7,7 +7,7 @@ const HeroSection = () => {
       <div className="contentContainer">
         {/* <div > */}
         <img
-          width="22%"
+          width="90%"
           src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9KBzmS8E7cxZ5XhjyvlaEHAWFGaBj2nSIUZXuf7O8UbQEi4Lu"
           alt="dumbbell"
           className="rotate"
